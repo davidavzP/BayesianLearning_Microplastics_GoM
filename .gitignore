@@ -1,3 +1,5 @@
 likelihood_plot_files/
 archived/
 __pycache__/
+data/
+.ipynb_checkpoints/
